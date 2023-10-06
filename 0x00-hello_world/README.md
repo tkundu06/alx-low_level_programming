@@ -6,3 +6,6 @@ The script compile the C code but does not link it
 A script that generates the assembly code of a C code and save it in an output file
 ***3. Name***
 This script will compile a C file and creates an executable named cisfun
+***4. Hello, puts***
+C file to print string using the puts() function
+
