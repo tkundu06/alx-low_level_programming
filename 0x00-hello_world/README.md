@@ -8,4 +8,5 @@ A script that generates the assembly code of a C code and save it in an output f
 This script will compile a C file and creates an executable named cisfun
 ***4. Hello, puts***
 C file to print string using the puts() function
-
+***5. Hello, printf***
+Prints a string using printf() function
