@@ -1,5 +1,6 @@
 #include "main.h"
 
+void print_alphabet(void);
 /**
  * main - void print_alphabet(void) function called here
  *
