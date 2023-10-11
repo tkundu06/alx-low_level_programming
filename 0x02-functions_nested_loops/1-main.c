@@ -1,18 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet - Function to print letters of the alphabet
+ * main - check the code
  *
- * Return: Nothing
+ * Return: Always 0.
  */
-void print_alphabet(void)
+int main(void)
 {
-	char i = 'a';
-
-	while (i <= 'z')
-	{
-		_putchar(i);
-		i++;
-	}
-	_putchar('\n');
+	print_alphabet();
+	return (0);
 }
