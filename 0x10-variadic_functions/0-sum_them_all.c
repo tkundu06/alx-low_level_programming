@@ -22,6 +22,7 @@ int sum_them_all(const unsigned int n, ...)
 	{
 		sum += va_arg(mynumbers, int);
 	}
+	va_end(mynumbers);
 	if (n == 0)
 	{
 		return (0);
