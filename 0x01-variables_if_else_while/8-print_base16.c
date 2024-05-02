@@ -7,18 +7,22 @@
  */
 int main(void)
 {
-	int ch = 0x0;
+	int h = 0;
 
-	while (ch <= 0xF)
+	while (h <= 9)
 	{
-		printf("%x", ch);
-		if (ch == 0xF)
-		{
-			printf("\n");
-			break;
-		}
-		ch++;
+		putchar('0' + h);
+		h++;
 	}
+
+	int i = 0;
+
+	while (i < 6)
+	{
+		putchar('a' + i);
+		i++;
+	}
+	putchar('\n');
 
 	return (0);
 }
