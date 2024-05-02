@@ -35,3 +35,7 @@ m
 	3. Then, the (0x) will precede the number to indicate hexadecimal number
 	4. The format specifier %x will print hexadecimal in lowercase
 ***9. Patience, persistence and perspiration make an unbeatable combination for success***
+	1. The objective of the program is to print numbers 0 to 9
+	2. Each number is separated by comma, the followed by space.
+	3. Numbers to be printed in ascending orders.
+***10. Inventing is a combination of brains and materials. The more brains you use, the less material you need***
