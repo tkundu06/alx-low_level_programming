@@ -16,3 +16,17 @@ m
 	1. Program to print letters of alphabet.
 	2. The first objective is to print the letters of the alphabet in lowercase
 	3. The second objective is to print letters of alphabet in upper case, then followed by a new line
+***4. When I was having that alphabet soup, I never thought that it would pay off***
+	1. The objective for the C program is to print the alphabet in lowercase, followed by a new line
+	2. All the letters will be printed except 'q' & 'e'
+***5. Numbers***
+	1. The objective for the program is to print single digit numbers of base 10, starting from zero
+	2. The objective will be achieved by using while loop to iterate from number 0 to 9
+***6. Numberz***
+	1. The goal of this program is to print single digit numbers of base 10 from 0
+	2. The followed by a newline
+	3. No variable of type char is allowed.
+***7. Smile in the mirror***
+	1. Printing the alphabet in lowercase and in reverse if the objective of the program
+	2. The while loop is used to iterate between letters.
+***8. Hexadecimal***
