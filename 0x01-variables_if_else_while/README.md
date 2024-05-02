@@ -1,4 +1,5 @@
-i***This project is going to cover various concepts starting with variables, if & else statements, and while loop***
+***This project is going to cover various concepts starting with variables, if & else statements, and while loop***
+	NB: Only the (putchar) function is allowed to display the result to the screen(output)
 ***0. Positive anything is better than negative nothing***
 	1. The program is meant to assign a random number to the variable n each time it is executed
 	2. The if & else statements are used to print whether number stored in the variable n is positive or negative
@@ -11,3 +12,7 @@ i***This project is going to cover various concepts starting with variables, if 
 	1. The objective of the program is to print the alphabet in lowercase, followed by a new line
 	2. The while loop is used in this program
 m
+***3. alphABET***
+	1. Program to print letters of alphabet.
+	2. The first objective is to print the letters of the alphabet in lowercase
+	3. The second objective is to print letters of alphabet in upper case, then followed by a new line
