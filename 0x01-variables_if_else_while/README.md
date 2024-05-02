@@ -30,3 +30,8 @@ m
 	1. Printing the alphabet in lowercase and in reverse if the objective of the program
 	2. The while loop is used to iterate between letters.
 ***8. Hexadecimal***
+	1. The program prints all the hexadecimal(all number of base 16) in lowercase, followed by a new line
+	2. NB: declaration of variable is done using int.
+	3. Then, the (0x) will precede the number to indicate hexadecimal number
+	4. The format specifier %x will print hexadecimal in lowercase
+***9. Patience, persistence and perspiration make an unbeatable combination for success***
