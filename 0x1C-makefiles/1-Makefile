@@ -3,10 +3,10 @@ SRC:= $(wildcard *.c)
 all: school
 
 school: main.o school.o
-	$(CC) main.o school.o -o $@
+	$(CC) main.o school.o -o school
 
 %.o: %.c
-	$(CC) -c $<
+	$(CC) -c $(SRC)
 
 clean:
-	rm -rf *.o
+	rm *.o
