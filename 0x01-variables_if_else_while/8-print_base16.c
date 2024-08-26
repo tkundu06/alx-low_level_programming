@@ -7,19 +7,21 @@
  */
 int main(void)
 {
-	int h = 0;
-	int i = 0;
+	int x;
+	char y;
 
-	while (h <= 9)
-	{
-		putchar('0' + h);
-		h++;
-	}
+	x = '0';
+	y = 'a';
 
-	while (i < 6)
+	while (y <= 'f')
 	{
-		putchar('a' + i);
-		i++;
+		while (x <= '9')
+		{
+			putchar(x);
+			x++;
+		}
+		putchar(y);
+		y++;
 	}
 	putchar('\n');
 
